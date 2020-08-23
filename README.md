@@ -26,15 +26,10 @@ If we plot this in a frequency spectrum, we will see total 3 delta functions in 
 In this scheme, carrier also transmits with the message which helps it to be detected non-coherently, so detector circuit is simplified but the efficiency is compromised.
 
 ![alt txt](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_fc%20(1).png)
-
 ![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_fc%20(2).png)
-
 ![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_fc%20(3).png)
-
 ![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_fc%20(4).png)
-
 ![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_fc%20(5).png)
-
 ![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_fc%20(6).png)
 
 
