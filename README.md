@@ -36,7 +36,9 @@ In this scheme, carrier also transmits with the message which helps it to be det
 
 ## Double Side Band with Suppressed Carrier (DSB-SC):
 
-This form of modulation is very popular. In this scheme, we will just multiply the message signal with the carrier signal and get the DSB-SC AM signal. Why it is called ‘SC’ will be clarified from its spectrum. Let’s see. For the previous message and carrier, we define a DSBSC signal as,
+This form of modulation is very popular. In this scheme, we will just multiply the message signal with the carrier signal and get the DSB-SC AM signal. Why it is called ‘SC’ will be clarified from its spectrum.
+
+Let’s see. For the previous message and carrier, we define a DSBSC signal as,
 
 S_𝐴𝑀(𝑡)=𝑚(𝑡)𝑐(𝑡)
 
@@ -47,6 +49,19 @@ S_𝐴𝑀(𝑡)=𝑚(𝑡)𝑐(𝑡)
 In frequency domain,
 
 𝑆_𝐴𝑀(𝑓)=𝐴𝑚𝐴𝑐4[𝛿(𝑓±(𝑓𝑚+𝑓𝑐))+𝛿(𝑓±(𝑓𝑐−𝑓𝑚))]
+
+![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_sc%20(1).png)
+![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_sc%20(2).png)
+![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_sc%20(3).png)
+
+![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_sc%20(4).png)
+![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_sc%20(5).png)
+![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_sc%20(6).png)
+
+## Report
+1. Design DSSB-FC and DSB-SC AM Scheme using sinusoidal message and triangular wave carrier.
+
+2. Design the above using square wave carrier. Show both time and frequency domain plots of every signal.
 
 
 
