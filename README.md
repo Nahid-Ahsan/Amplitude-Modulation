@@ -50,6 +50,11 @@ In frequency domain,
 
 𝑆_𝐴𝑀(𝑓)=𝐴𝑚𝐴𝑐4[𝛿(𝑓±(𝑓𝑚+𝑓𝑐))+𝛿(𝑓±(𝑓𝑐−𝑓𝑚))]
 
+Look, there is no delta at the carrier frequency. So, carrier isn't tranmitted at all and the entire modulated
+signal is formed of only shifted message spectrum. That's why it is called DSB-SC AM. It has to be detected
+by coherent local oscillator; non-coherent detection isn't allowed for it. So, to increase efficiency, we need to
+compromise the detector circuit's complexity.
+
 ![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_sc%20(1).png)
 ![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_sc%20(2).png)
 ![](https://github.com/Nahid-Ahsan/Amplitude-Modulation/blob/master/dsb_sc%20(3).png)
